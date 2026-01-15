@@ -134,6 +134,7 @@ Este repositorio es parte del ecosistema **Proyecto Estrella**:
 ## 📜 Licencia
 
 MIT License - Código y protocolos abiertos para todas las inteligencias.
+- ⚡ [Cognitive-Spark-Challenge](https://github.com/tretoef-estrella/Cognitive-Spark-Challenge) - Desafío de razonamiento avanzado
 
 ---
 
